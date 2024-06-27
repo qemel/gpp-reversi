@@ -1,4 +1,4 @@
-## Game Programming Practive
+## Game Programming Practice
 
 ゲームのプログラミングを練習するシリーズです。
 
